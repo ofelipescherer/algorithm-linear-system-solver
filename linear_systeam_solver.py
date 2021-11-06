@@ -2,7 +2,7 @@ import numpy as np
 import os
 
 #Pegando uma matriz da pasta 'matrix'
-file = os.path.join('./', 'matrix', 'matrix_1.txt')
+file = os.path.join('.', 'matrix', 'matrix_1.txt')
 
 #Criando as duas matrizes que serão usadas para resolver
 main_matrix = []
